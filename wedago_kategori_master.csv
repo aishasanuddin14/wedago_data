@@ -1,19 +1,19 @@
-﻿name;action_url;web_url;drive_image_id;rating;kategori;jarak_km;status_buka
-SNEKTAIM;action://p/68a93cb680ac3;https://jgjk.mobi/p/68a93cb680ac3;18KMYIrMaZhogO8wVTjfyzB75-Gsm1hR9;4,8;Kuliner;;Buka
-JAJANAN MANTUL;action://p/68ab34edc2fe9;https://jgjk.mobi/p/68ab34edc2fe9;1MsBP3MfyeiL0BCkepKTaPRJH_UKAPF-r;4,8;Kuliner;;Buka
-TAHU MERCON;action://p/68ab34f38d501;https://jgjk.mobi/p/68ab34f38d501;1StfB0EZNQ3mLfNACuj6QBk3eGo2CBspm;4,8;Kuliner;;Buka
-90 DERAJAT;action://p/68a9696da1653;https://jgjk.mobi/p/68a9696da1653;1MCLgbJyuXUf8xfknl5k_XJPzAYxDBbnl;4,8;Kuliner;;Buka
-KUE PIA WEDA;action://p/68ab34f09878e;https://jgjk.mobi/p/68ab34f09878e;1CJb9ho_dz4wGYyTTqXXkqZDpmxG6A-4v;4,8;Kuliner;;Buka
-KEDAI SEBLAK PRASMANAN;action://p/68ab3c217d48f;https://jgjk.mobi/p/68ab3c217d48f;1mRI6kj-Sx85G4gihPBHNjhVCAzQDa0o1;4,8;Kuliner;;Buka
-ES TELLER BUNDA GINA;action://p/68ab34f98ff2a;https://jgjk.mobi/p/68ab34f98ff2a;1CY_EScw8cDtt3wrtzSjSTwKlpNms1kRo;4,8;Kuliner;;Buka
-DPOER QIANA;action://p/68a93c8dacb11;https://jgjk.mobi/p/68a93c8dacb11;1j6s6wH2GPEiH3UQSiP-WKfR6ODwT9n3w;4,8;Kuliner;;Buka
-BENGKEL KREATIF COGOIPA;action://p/68ab316503d2f;https://jgjk.mobi/p/68ab316503d2f;1IqmUnJh40ccgFPjBDxVANvJXrRvNbXdy;4,8;UMKM;;Buka
-IKAN TORE WOYO KLA;action://p/68d0c7eb8871d;https://jgjk.mobi/p/68d0c7eb8871d;113vX3AYGEmKHzWkgiHWhc79CUuaP124q;4,8;UMKM;;Buka
-IKAN FUFU WEDA;action://p/68d0c7b85460a;https://jgjk.mobi/p/68d0c7b85460a;1oKsGyh8Q3VpbAVnrIKU_8cJnkF5myqEL;4,8;UMKM;;Buka
-SAGU BAKAR;action://p/68d0c7926a4a5;https://jgjk.mobi/p/68d0c7926a4a5;1icx4gWmn7kuIUStRS4qK6ar0oJz-9hqM;4,8;UMKM;;Buka
-DISTRO LOKAL;action://p/68d0bf444e7f0;https://jgjk.mobi/p/68d0bf444e7f0;1By69lkNEFNlZe2SW88BrTBGdWabd1DlO;4,8;UMKM;;Buka
-WERE KREATIF;action://p/68d0bf3e406e0;https://jgjk.mobi/p/68d0bf3e406e0;1eFNNlkbYs-XFcs5eYq2Cy2NzSYA91bkU;4,8;UMKM;;Buka
-SAGU WEDA;action://p/68d0bf3590056;https://jgjk.mobi/p/68d0bf3590056;1YJii5sa1EC6U_f3QBM2vAJTFCE-pbx4I;4,8;UMKM;;Buka
-LAPAK SAYUR ;action://p/68ab375a0cfe3;https://jgjk.mobi/p/68ab375a0cfe3;1Jm16U8QVTQoaa0MDKjWHwQ9t5Ja9TziU;4,8;Fresh Mart;;Buka
-IKAN SEGAR WEDA;action://p/68d0dbacb3f02;https://jgjk.mobi/p/68d0dbacb3f02;1ds-8_kDgcHqI_tS65ZU9euHwxGJuWxND;4,8;Fresh Mart;;Buka
-UDANG WEDA;action://p/68d0e2ed071fb;https://jgjk.mobi/p/68d0e2ed071fb;1q2CbarDK4EHgeYBxPb6lpp2NZSXwbCrG;4,8;Fresh Mart;;Buka
+name,action_url,web_url,drive_image_id,rating,kategori,jarak_km,status_buka
+SNEKTAIM,action://p/68a93cb680ac3,https://jgjk.mobi/p/68a93cb680ac3,18KMYIrMaZhogO8wVTjfyzB75-Gsm1hR9,"4,8",Kuliner,,Buka
+JAJANAN MANTUL,action://p/68ab34edc2fe9,https://jgjk.mobi/p/68ab34edc2fe9,1MsBP3MfyeiL0BCkepKTaPRJH_UKAPF-r,"4,8",Kuliner,,Buka
+TAHU MERCON,action://p/68ab34f38d501,https://jgjk.mobi/p/68ab34f38d501,1StfB0EZNQ3mLfNACuj6QBk3eGo2CBspm,"4,8",Kuliner,,Buka
+90 DERAJAT,action://p/68a9696da1653,https://jgjk.mobi/p/68a9696da1653,1MCLgbJyuXUf8xfknl5k_XJPzAYxDBbnl,"4,8",Kuliner,,Buka
+KUE PIA WEDA,action://p/68ab34f09878e,https://jgjk.mobi/p/68ab34f09878e,1CJb9ho_dz4wGYyTTqXXkqZDpmxG6A-4v,"4,8",Kuliner,,Buka
+KEDAI SEBLAK PRASMANAN,action://p/68ab3c217d48f,https://jgjk.mobi/p/68ab3c217d48f,1mRI6kj-Sx85G4gihPBHNjhVCAzQDa0o1,"4,8",Kuliner,,Buka
+ES TELLER BUNDA GINA,action://p/68ab34f98ff2a,https://jgjk.mobi/p/68ab34f98ff2a,1CY_EScw8cDtt3wrtzSjSTwKlpNms1kRo,"4,8",Kuliner,,Buka
+DPOER QIANA,action://p/68a93c8dacb11,https://jgjk.mobi/p/68a93c8dacb11,1j6s6wH2GPEiH3UQSiP-WKfR6ODwT9n3w,"4,8",Kuliner,,Buka
+BENGKEL KREATIF COGOIPA,action://p/68ab316503d2f,https://jgjk.mobi/p/68ab316503d2f,1IqmUnJh40ccgFPjBDxVANvJXrRvNbXdy,"4,8",UMKM,,Buka
+IKAN TORE WOYO KLA,action://p/68d0c7eb8871d,https://jgjk.mobi/p/68d0c7eb8871d,113vX3AYGEmKHzWkgiHWhc79CUuaP124q,"4,8",UMKM,,Buka
+IKAN FUFU WEDA,action://p/68d0c7b85460a,https://jgjk.mobi/p/68d0c7b85460a,1oKsGyh8Q3VpbAVnrIKU_8cJnkF5myqEL,"4,8",UMKM,,Buka
+SAGU BAKAR,action://p/68d0c7926a4a5,https://jgjk.mobi/p/68d0c7926a4a5,1icx4gWmn7kuIUStRS4qK6ar0oJz-9hqM,"4,8",UMKM,,Buka
+DISTRO LOKAL,action://p/68d0bf444e7f0,https://jgjk.mobi/p/68d0bf444e7f0,1By69lkNEFNlZe2SW88BrTBGdWabd1DlO,"4,8",UMKM,,Buka
+WERE KREATIF,action://p/68d0bf3e406e0,https://jgjk.mobi/p/68d0bf3e406e0,1eFNNlkbYs-XFcs5eYq2Cy2NzSYA91bkU,"4,8",UMKM,,Buka
+SAGU WEDA,action://p/68d0bf3590056,https://jgjk.mobi/p/68d0bf3590056,1YJii5sa1EC6U_f3QBM2vAJTFCE-pbx4I,"4,8",UMKM,,Buka
+LAPAK SAYUR ,action://p/68ab375a0cfe3,https://jgjk.mobi/p/68ab375a0cfe3,1Jm16U8QVTQoaa0MDKjWHwQ9t5Ja9TziU,"4,8",Fresh Mart,,Buka
+IKAN SEGAR WEDA,action://p/68d0dbacb3f02,https://jgjk.mobi/p/68d0dbacb3f02,1ds-8_kDgcHqI_tS65ZU9euHwxGJuWxND,"4,8",Fresh Mart,,Buka
+UDANG WEDA,action://p/68d0e2ed071fb,https://jgjk.mobi/p/68d0e2ed071fb,1q2CbarDK4EHgeYBxPb6lpp2NZSXwbCrG,"4,8",Fresh Mart,,Buka
